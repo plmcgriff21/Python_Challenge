@@ -1,0 +1,12 @@
+-------Election Results-------------------
+"Total Number of Votes Cast:"3521001
+-------Election Results-------------------
+"Total Number of Votes Cast:"3521001
+"List of Candidates:"{'Khan', 'Correy', 'Li', "O'Tooley"}
+"Total Number of Khan votes:2218231 Percent of Votes:63.0%
+"Total Number of Correy votes:704200 Percent of Votes:20.0%
+"Total Number of Li votes:492940 Percent of Votes:14.0%
+Total Number of O'Tooley votes:105630 Percent of Votes:3.0%
+"Winner:"Khan
+----------------------------------------------------------------------------------------
+
