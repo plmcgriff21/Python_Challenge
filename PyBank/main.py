@@ -9,8 +9,7 @@ profit=0
 averagechange=0
 net_change_list = []
 prev_value=0
-maxmonth=[]
-
+date=[]
 #--------------------------------------------------------------------------------------------
 #Open the file path, initialize the reader and define how data from the file should be parsed
 with open(csvpath) as csvfile:
@@ -26,6 +25,8 @@ with open(csvpath) as csvfile:
   
 #create loop to find details within the data extract
     for row in csvreader:
+        date.append(row[0])
+        #print(date )
         #find total number of months being evaluated
         net_change= int(row[1]) -prev_value 
         prev_value= int(row[1])
@@ -37,8 +38,15 @@ with open(csvpath) as csvfile:
         MaxChange=max(net_change_list)
         MinChange=min(net_change_list)
         avgdiff= sum(net_change_list)/len(net_change_list)
-     
-            
+        #print(net_change_list)
+        if net_change==MaxChange:
+            maxmonth=str(row[0])
+        if net_change==MinChange:
+            minmonth=str(row[0])
+#print(maxmonth)
+#print(minmonth)
+
+
       
         
 
@@ -47,8 +55,8 @@ with open("financialdata.txt","a") as f:
     print(f'Total Months {totalmonths}',file=f)
     print(f'Total profits:{profit}',file=f)
     print(f'Average Change:{avgdiff}',file=f)
-    print(f'Greatest increase in profits: {MaxChange}',file=f)
-    print(f'Greatest descrease in profits:  {MinChange}',file=f)
+    print(f'Greatest increase in profits: {maxmonth} {MaxChange}',file=f)
+    print(f'Greatest descrease in profits: {minmonth} {MinChange}',file=f)
     print("---------------------------------------------------------------------------------",file=f)
 
 
