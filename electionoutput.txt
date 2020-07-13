@@ -1,0 +1,72 @@
+-------Election Results-------------------
+"Total Number of Votes Cast:"3521001
+"List of Candidates:"{'Li', 'Khan', "O'Tooley", 'Correy'}
+"Total Number of Khan votes:2218231 Percent of Votes:63.0%
+"Total Number of Correy votes:704200 Percent of Votes:20.0%
+"Total Number of Li votes:492940 Percent of Votes:14.0%
+Total Number of O'Tooley votes:105630 Percent of Votes:3.0%
+"Winner:"Khan
+----------------------------------------------------------------------------------------
+-------Election Results-------------------
+"Total Number of Votes Cast:"3521001
+"List of Candidates:"{'Khan', 'Correy', "O'Tooley", 'Li'}
+"Total Number of Khan votes:2218231 Percent of Votes:63.0%
+"Total Number of Correy votes:704200 Percent of Votes:20.0%
+"Total Number of Li votes:492940 Percent of Votes:14.0%
+Total Number of O'Tooley votes:105630 Percent of Votes:3.0%
+"Winner:"Khan
+----------------------------------------------------------------------------------------
+-------Election Results-------------------
+"Total Number of Votes Cast:"3521001
+"List of Candidates:"{'Li', "O'Tooley", 'Correy', 'Khan'}
+"Total Number of Khan votes:2218231 Percent of Votes:63.0%
+"Total Number of Correy votes:704200 Percent of Votes:20.0%
+"Total Number of Li votes:492940 Percent of Votes:14.0%
+Total Number of O'Tooley votes:105630 Percent of Votes:3.0%
+"Winner:"Khan
+----------------------------------------------------------------------------------------
+-------Election Results-------------------
+"Total Number of Votes Cast:"3521001
+"List of Candidates:"{'Li', "O'Tooley", 'Correy', 'Khan'}
+"Total Number of Khan votes:2218231 Percent of Votes:63.0%
+"Total Number of Correy votes:704200 Percent of Votes:20.0%
+"Total Number of Li votes:492940 Percent of Votes:14.0%
+Total Number of O'Tooley votes:105630 Percent of Votes:3.0%
+"Winner:"Khan
+----------------------------------------------------------------------------------------
+-------Election Results-------------------
+"Total Number of Votes Cast:"3521001
+"List of Candidates:"{'Khan', 'Li', 'Correy', "O'Tooley"}
+"Total Number of Khan votes:2218231 Percent of Votes:63.0%
+"Total Number of Correy votes:704200 Percent of Votes:20.0%
+"Total Number of Li votes:492940 Percent of Votes:14.0%
+Total Number of O'Tooley votes:105630 Percent of Votes:3.0%
+"Winner:"Khan
+----------------------------------------------------------------------------------------
+-------Election Results-------------------
+"Total Number of Votes Cast:"3521001
+"List of Candidates:"{'Li', 'Khan', "O'Tooley", 'Correy'}
+"Total Number of Khan votes:2218231 Percent of Votes:63.0%
+"Total Number of Correy votes:704200 Percent of Votes:20.0%
+"Total Number of Li votes:492940 Percent of Votes:14.0%
+Total Number of O'Tooley votes:105630 Percent of Votes:3.0%
+"Winner:"Khan
+----------------------------------------------------------------------------------------
+-------Election Results-------------------
+"Total Number of Votes Cast:"3521001
+"List of Candidates:"{"O'Tooley", 'Khan', 'Li', 'Correy'}
+"Total Number of Khan votes:2218231 Percent of Votes:63.0%
+"Total Number of Correy votes:704200 Percent of Votes:20.0%
+"Total Number of Li votes:492940 Percent of Votes:14.0%
+Total Number of O'Tooley votes:105630 Percent of Votes:3.0%
+"Winner:"Khan
+----------------------------------------------------------------------------------------
+-------Election Results-------------------
+"Total Number of Votes Cast:"3521001
+"List of Candidates:"{'Correy', 'Khan', 'Li', "O'Tooley"}
+"Total Number of Khan votes:2218231 Percent of Votes:63.0%
+"Total Number of Correy votes:704200 Percent of Votes:20.0%
+"Total Number of Li votes:492940 Percent of Votes:14.0%
+Total Number of O'Tooley votes:105630 Percent of Votes:3.0%
+"Winner:"Khan
+----------------------------------------------------------------------------------------
